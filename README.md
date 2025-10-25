@@ -6,7 +6,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stibiums&show_icons=true&count_private=true&theme=tokyonight" alt="stibiums' GitHub stats" />
 
 <!-- Top languages card -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stibiums&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stibiums&layout=compact&theme=tokyonight" alt="Top Language" />
 
 <br clear="both"/>
 
