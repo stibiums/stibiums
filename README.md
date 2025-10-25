@@ -19,4 +19,4 @@ I love turning ideas into code and breaking things to understand how they work.
 
 ![stibiums's GitHub stats](https://github-readme-stats.vercel.app/api?username=stibiums&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stibiums&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stibiums&layout=compact&exclude_repo=stibiums.github.io)
